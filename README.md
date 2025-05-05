@@ -44,7 +44,7 @@ https://colab.research.google.com/drive/1pxEz4mfINIkeagRkzb8zqKhwbjBLVcdi?usp=sh
 - Execute the cells sequentially for data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
   
 # View Results & Insights
-- The notebook will generate:
+The notebook will generate:
 - Visualizations highlighting churn trends.
 - Machine learning model performance metrics.
 - Feature importance insights for predictive analysis.
