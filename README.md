@@ -40,10 +40,10 @@ Run the commands in a Colab cell to install required libraries:
 Alternatively, copy and paste below link in your broswer to open the colab notebook:
 https://colab.research.google.com/drive/1pxEz4mfINIkeagRkzb8zqKhwbjBLVcdi?usp=sharing
 
-- # Run the Notebook Cells
+# Run the Notebook Cells
 - Execute the cells sequentially for data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
   
-  # View Results & Insights
+# View Results & Insights
 - The notebook will generate:
 - Visualizations highlighting churn trends.
 - Machine learning model performance metrics.
