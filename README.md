@@ -1,2 +1,1 @@
-# churn-retention-predictive-analytics
-
+# Churn Retention Predictive Analytics Project
