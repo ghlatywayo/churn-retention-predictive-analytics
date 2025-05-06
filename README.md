@@ -9,7 +9,7 @@ This project integrates exploratory data analysis (EDA), preprocessing steps, an
 Effective churn prediction enables businesses to identify high-risk customers early and take proactive measures, such as offering incentives or addressing dissatisfaction. This approach not only reduces churn-related losses but also builds long-term customer loyalty.
 
 # Dataset Description
-The dataset, sourced from Kaggle’s Telco Customer Churn dataset, contains detailed records of customer demographics, service usage, payment methods, and subscription details. These features are critical in identifying patterns and correlations to predict churn effectively.
+The dataset, sourced from Kaggle’s https://www.kaggle.com/datasets/blastchar/telco-customer-churn  dataset, contains detailed records of customer demographics, service usage, payment methods, and subscription details. These features are critical in identifying patterns and correlations to predict churn effectively.
 •	Size: 7,043 rows and 21 columns.
 
 # Key Features: 
